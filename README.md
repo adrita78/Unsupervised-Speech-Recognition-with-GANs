@@ -22,5 +22,5 @@ This project aims to re-implement and enhance the Generative Adversarial Network
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/adrita78/wav2vec-U.git
+   git clone https://github.com/yourusername/wav2vec-U.git
    cd wav2vec-U
