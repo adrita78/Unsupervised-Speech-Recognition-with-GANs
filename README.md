@@ -1,6 +1,5 @@
 # Unsupervised-Speech-Recognition-with-GANs
 
-# Wav2Vec-U: Unsupervised Speech Recognition with GANs
 
 This project aims to re-implement and enhance the Generative Adversarial Network (GAN)-based unsupervised model for speech recognition, known as wav2vec-U. The proposed method introduces novel approaches to training speech recognition models without the need for labeled data.
 
